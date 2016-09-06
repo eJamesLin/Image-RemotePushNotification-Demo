@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>NotificationService.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Push.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>DB829FB31D7E6979008B4088</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>DBA1BD3D1D75EA6700F5640D</key>
 		<dict>
 			<key>primary</key>
